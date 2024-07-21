@@ -12,6 +12,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  favicon: favicon.png
   palette:
     - scheme: default
       toggle:
