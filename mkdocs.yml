@@ -34,6 +34,8 @@ plugins:
       branch: main
   - git-authors
   - glightbox
+  - search
+  - open-in-new-tab
 
 markdown_extensions:
   - admonition
