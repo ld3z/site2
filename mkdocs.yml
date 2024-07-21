@@ -1,0 +1,53 @@
+site_name: ld3z's Site
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: green
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: green
+      accent: lime
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: false
+  - git-committers:
+      repository: ld3z/site2
+      branch: main
+  - git-authors
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - sane_lists
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ld3z/
+
+repo_url: https://github.com/ld3z/site2
+repo_name: ld3z/site2
