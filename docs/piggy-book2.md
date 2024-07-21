@@ -46,7 +46,7 @@ This is a page which will instruct someone, on how to obtain [Book 2's](https://
 
 <figure markdown="span">
   ![KeypadImg](images/piggyCode.PNG){ loading=lazy }
-  <figcaption>An image of the symbols representing each number. Photo credits goes to <p><a href="https://www.youtube.com/channel/UC_Eqz_eCwFXQBRtrtOWukZQ?themeRefresh=1">THECREEPYHEADPHONES</a></p> on YouTube.</figcaption>
+  <figcaption>An image of the symbols representing each number. Photo credits goes to: <p><a href="https://www.youtube.com/channel/UC_Eqz_eCwFXQBRtrtOWukZQ?themeRefresh=1">THECREEPYHEADPHONES</a></p> on YouTube.</figcaption>
 </figure>
 
 ## Step 2:
