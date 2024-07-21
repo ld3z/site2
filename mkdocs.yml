@@ -30,6 +30,7 @@ theme:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: false
+      type: timeago
   - git-committers:
       repository: ld3z/site2
       branch: main
