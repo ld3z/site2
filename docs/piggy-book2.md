@@ -32,7 +32,7 @@ This is a page which will instruct someone, on how to obtain [Book 2's](https://
 
 !!! info
 
-    The numbers that are revealed using the wrench and the order of the symbols on the keypad changes every round. You must follow the order of number below.
+    The numbers that are revealed using the wrench and the order of the symbols on the keypad changes every round.
 
 ## Step 1:
 
