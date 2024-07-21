@@ -72,3 +72,23 @@ You will have a boss battle against *TIO*, the main antagonist of the whole game
 6. Walk into the Black Void while avoiding the three purple traps in front of it.
 
 ### Part 2:
+
+1. Once you get teleported, find and give items to the following NPCs: *Wooden Sword* for Pony, *The Pipe* for Zee, and the *Baseball Bat* for Georgie. After doing this, *TIO* will enter a rage state (the bot automatically knows where you are and chases you around), and the upstairs section of the map will open.
+
+2. Go upstairs and give Doggy the bone, give Bunny the carrot, and give Zizzy the grass. Each one counts as one hit. Avoid the Shadow and White Sentinels. **The Shadow Sentinel is VERY HARD to see, so be extremely careful and alert as possible.**
+
+3. After Doggy, Bunny, and Zizzy all hit *TIO* with their respective weapons, *TIO* will be defeated, a cutscene will play, and you should get the Hidden Ending badge and the ??? skin.
+
+!!! question "I followed these steps and still didn't get the badge. What did I do wrong?"
+
+    If you didn't get the badge, make sure to check the following:
+
+      1. You (or someone else in the server) have all badges from both books, excluding any of the event badges, including all other badges from Factory, Lab, and Plant.
+
+      2. You have the Savior Ending toggled in Settings, or else the keypad in *Camp* won't appear.
+
+      3. If the keypad doesn't appear in *Camp*, then do Docks again and ensure the player with all the badges escapes with Pony following them.
+
+      4. Make sure you're doing Swarm mode on the *Camp* map.
+
+      5. Make sure you have 1:50 left on the timer on the *Lab* map for the second phase.
