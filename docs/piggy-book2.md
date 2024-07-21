@@ -48,3 +48,27 @@ This is a page which will instruct someone, on how to obtain [Book 2's](https://
   ![KeypadImg](images/piggyCode.PNG){ loading=lazy }
   <figcaption>An image of the symbols representing each number. Photo credits goes to <p><a href="https://www.youtube.com/channel/UC_Eqz_eCwFXQBRtrtOWukZQ?themeRefresh=1">THECREEPYHEADPHONES</a></p> on YouTube.</figcaption>
 </figure>
+
+## Step 2:
+
+You will have a boss battle against *TIO*, the main antagonist of the whole game. Abilities are disabled during this battle.
+
+### Part 1:
+
+1. When you spawn in, there will be number codes from the *Alleys* map. Input the code into the keypad to unlock the next room.
+
+2. The next room has color codes from the *Ship* map. Start from the left wall and key in the colors in the direction of the arrows. Do the same thing for the right wall as well.
+
+3. The next room has the numerical puzzle from the *Docks* map. Input the Roman Numerals onto the rotating pillar.
+
+4. The next room has the symbol circle puzzle from the *Temple* map. The black arrow points into the middle of the circle. Ensure that the symbols are aligned to those on the wall.
+
+5. The next room has the roulette puzzle from the *Camp* map. Press the dots that are colored red onto the roulette puzzle or press the buttons randomly, But the latter strategy does take time.
+
+!!! tip
+
+    The red dot on the wheel that is closest to the temple chapter always has an opposite, this means that if there is a red dot on the top left, there will be a red dot on the bottom right, the one closest to the roulette puzzle is always random.
+
+6. Walk into the Black Void while avoiding the three purple traps in front of it.
+
+### Part 2:
