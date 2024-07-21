@@ -17,13 +17,13 @@ Credits to this reddit post: <https://www.reddit.com/r/Cuphead/comments/137locl/
 
 If you still are having trouble, here is a table you could follow:
 
-| Direction from the middle gravestone                                           | Lantern's quote                                                                 | Shovel's quote                                                                | Pickaxe's quote | Up | Left | Right | Down | Up Left | Up Right | Down Left | Down Right |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | -- | ---- | ----- | ---- | ------- | -------- | --------- | ---------- |
-| I can't believe I've won! Things are looking **up**!                           | Second place? I've had it **up** to here with second place!                     | Third place? I guess things can only go **up** from here!                     |
-| There's no way the others could have caught me! I **left** 'em in the dust!    | Second place! The only thing **left** to do is get better for next year.        | I thought I had **left** behind being a bum. Third place! What a joke.        |
-| I'm the winner and all is **right** in the world.                              | I may have gotten second place, but I think I did all **right**.                | It ain't **right**! I trained too hard only to come in third!                 |
-| I may have won, but I don't look **down** on anyone for trying to compete.     | I've been **down** all morning, but this second place finish has me smiling!    | Worse than last year! **Down** to third place.                                |
-| As a winner, I never gave **up**! **Left** 'em looking foolish!                | If the judging was **left up** to me, I wouldn't be in second place.            | All I can do is throw my hands **up**. **Left** to wallow in third place.     |
-| Leave it to an **upright** citizen like me to win the whole thing!             | I got **up right** at the crack of dawn just to come in second!?                | They think they're better than me? They can stick it **right up** their nose! |
-| I was the first to the top, and those losers were **left down** at the bottom! | I **left** **down**town in a hurry, and forgot my gear. I'll settle for second. | My pals cheered me on, but I let 'em **down**. **Left** the race in third.    |
-| I always win! I am **downright** awesome!                                      | Second place just ain't **right**! **Down** one place from last year.           | It's **downright** criminal they let these other jokers compete.              |
+**Direction from the middle gravestone**|**Lantern's quote**|**Shovel's quote**|**Pickaxe's quote**
+:-----:|:-----:|:-----:|:-----:
+Up|I can't believe I've won! Things are looking up!|Second place? I've had it up to here with second place!|Third place? I guess things can only go up from here!
+Left|There's no way the others could have caught me! I left 'em in the dust!|Second place! The only thing left to do is get better for next year.|I thought I had left behind being a bum. Third place! What a joke.
+Right|I'm the winner and all is right in the world.|I may have gotten second place, but I think I did all right.|It ain't right! I trained too hard only to come in third!
+Down|I may have won, but I don't look down on anyone for trying to compete.|I've been down all morning, but this second place finish has me smiling!|Worse than last year! Down to third place.
+Up Left|As a winner, I never gave up! Left 'em looking foolish!|If the judging was left up to me, I wouldn't be in second place.|All I can do is throw my hands up. Left to wallow in third place.
+Up Right|Leave it to an upright citizen like me to win the whole thing!|I got up right at the crack of dawn just to come in second!?|They think they're better than me? They can stick it right up their nose!
+Down Left|I was the first to the top, and those losers were left down at the bottom!|I left downtown in a hurry, and forgot my gear. I'll settle for second.|My pals cheered me on, but I let 'em down. Left the race in third.
+Down Right|I always win! I am downright awesome!|Second place just ain't right! Down one place from last year.|It's downright criminal they let these other jokers compete.
