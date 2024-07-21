@@ -22,7 +22,7 @@ This is a page which will instruct someone, on how to obtain [Book 1's](https://
 
        2. Or if you are playing with another player(s), have either you or them complete the map while you or they are holding the photo, then escape once the exit is open without dying.
 
-Escape the map with the photo equipped in your hand. You can skip the cutscene.
+4. Escape the map with the photo equipped in your hand. You can skip the cutscene.
 
 !!! danger
 
