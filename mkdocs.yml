@@ -1,6 +1,7 @@
 site_name: ld3z's Site
 theme:
   name: material
+  favicon: images/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,7 +13,6 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  favicon: images/favicon.png
   palette:
     - scheme: default
       toggle:
