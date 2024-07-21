@@ -63,7 +63,7 @@ You will have a boss battle against *TIO*, the main antagonist of the whole game
 
 4. The next room has the symbol circle puzzle from the *Temple* map. The black arrow points into the middle of the circle. Ensure that the symbols are aligned to those on the wall.
 
-5. The next room has the roulette puzzle from the *Camp* map. Press the dots that are colored red onto the roulette puzzle or press the buttons randomly, But the latter strategy does take time.
+5. The next room has the roulette puzzle from the *Camp* map. Press the dots that are colored red onto the roulette puzzle or press the buttons randomly, but the latter strategy does take time.
 
 !!! tip
 
