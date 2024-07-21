@@ -1,4 +1,4 @@
-# Piggy Book 1 True Ending
+# **Piggy Book 1 True Ending**
 
 This is a page which will instruct someone, on how to obtain [Book 1's](https://www.rolimons.com/gamebadge/2124540781) True Ending!
 

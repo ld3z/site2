@@ -1,4 +1,4 @@
-# Cuphead
+# **Cuphead**
 
 This isn't so much as a game "guide" but more like a resource page.
 
