@@ -12,6 +12,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
   language: en
   palette:
     - scheme: default
@@ -34,10 +35,15 @@ plugins:
   - git-committers:
       repository: ld3z/site2
       branch: main
+  - link-embeds:
+      enabled: true
+      name_default: "Untitled Link"
+      desc_default: "No description found"
   - git-authors
   - glightbox
   - search
   - open-in-new-tab
+  - autolinks
 
 markdown_extensions:
   - admonition
@@ -55,3 +61,6 @@ extra:
 
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
+
+extra_css:
+  - link-embeds.css
