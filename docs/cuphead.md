@@ -17,6 +17,8 @@ Credits to this reddit post: <https://www.reddit.com/r/Cuphead/comments/137locl/
 
 If you still are having trouble, here is a table you could follow:
 
+## Possible solutions
+
 **Direction from the middle gravestone**|**Lantern's quote**|**Shovel's quote**|**Pickaxe's quote**
 :-----:|:-----:|:-----:|:-----:
 Up|I can't believe I've won! Things are looking up!|Second place? I've had it up to here with second place!|Third place? I guess things can only go up from here!
