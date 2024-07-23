@@ -9,7 +9,7 @@ This is a helpful picture for completing the graveyard puzzle on World 4, since 
 Credits to this reddit post:
 
 ```embed
-url: https://www.reddit.com/r/Cuphead/comments/137locl/graveyard_puzzle_tutorial/?rdt=43022
+url: https://www.reddit.com/r/Cuphead/comments/137locl/graveyard_puzzle_tutorial/
 ```
 
 ![GraveYard](https://preview.redd.it/graveyard-puzzle-tutorial-v0-uxfjzk9tmtxa1.png?width=1080&crop=smart&auto=webp&s=507b5676623a1da5f5cfd45a208b791fac2f09c5)
