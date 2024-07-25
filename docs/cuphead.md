@@ -13,7 +13,7 @@ Credits to this reddit post: <https://www.reddit.com/r/Cuphead/comments/137locl/
 !!! info
 
     <figure markdown="span">
-        ![Image title](https://preview.redd.it/graveyard-puzzle-tutorial-v0-6yaavfuxmtxa1.png?width=826&format=png&auto=webp&s=159a551e36939a16d5846f5b7c735e2ff66d0720){ width="300" loading=lazy }
+        ![GraveYardRem](https://preview.redd.it/graveyard-puzzle-tutorial-v0-6yaavfuxmtxa1.png?width=826&format=png&auto=webp&s=159a551e36939a16d5846f5b7c735e2ff66d0720){ width="300" loading=lazy }
         <figcaption>Just remember the order in which you talk to them. (This too is also random!)</figcaption>
     </figure>
 
