@@ -12,7 +12,7 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
       This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 
-## Potato Pout ![PotatoPout](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/15d94576fbed8261ae81f54dd3b5eb3d/150/150/Image/Webp)
+## Potato Pout ![PotatoPout](potpout.webp)
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
@@ -30,7 +30,7 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
 6. Give the Mrs. P photo to Mr.P. He will start crying and will flood the city.
 
-## Deep Depths ![DeepDepth](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/9785fa0de9ae9b6f4264078b8df3875a/150/150/Image/Webp)
+## Deep Depths ![DeepDepth](deepDepth.webp)
 
 1. Activate the five valves across the flooded Subway, there are three in the city and two in the subway. They can be found next to the white grates.
    - *The Flippers* item from the shop can be bought to speed this part up.
@@ -50,13 +50,13 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
 6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.
 
-## Operation: Employee ![Employee](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/89c3e931ee8eb1e3477a4a4a67d0ee38/150/150/Image/Webp)
+## Operation: Employee ![Employee](employee.webp)
 
 1. Buy the *Suitcase*. Hold it after equipping Mr. P's hat to access the tall building in the lobby.
 
 2. Input the code `362761` when prompted. This allows for entry into the building and then into the glitch world.
 
-## Flip Side ![FlipSide](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/8d09a75570eddddbe8da0988abb23345/150/150/Image/Webp)
+## Flip Side ![FlipSide](flipside.webp)
 
 1. Collect the items and complete the pipe puzzles scattered in each accessible area in the glitch world.
 
@@ -64,7 +64,7 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
 3. Craft all the ingots you can which are used to get different items from AJ Alpaca.
 
-## : eRrOr : ![error](https://demo.flyimg.io/upload/w_24/https://tr.rbxcdn.com/f9dc7a2cf5e8556c3ffbfafa9b1df311/150/150/Image/Webp)
+## : eRrOr : ![error](error.webp)
 
 1. Leave and rejoin the game to access the normal world.
 
