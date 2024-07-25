@@ -35,6 +35,11 @@ plugins:
   - git-committers:
       repository: ld3z/site2
       branch: main
+  - auto-refresh-build-pages:
+      update_message: "This page has been updated. Do you want to reload?"
+      yes_button_text: "Yes"
+      no_button_text: "No"
+      check_interval_seconds: 60
   - git-authors
   - glightbox
   - search
