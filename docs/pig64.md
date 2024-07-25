@@ -12,7 +12,7 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
       This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 
-## Potato Pout ![PotatoPout](potpout.webp){ width="32" }{ loading=lazy }
+## Potato Pout ![PotatoPout](potpout.webp){ width="32" , loading=lazy }
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
@@ -60,7 +60,7 @@ This is a page which will instruct someone, on how to obtain all of [Pig 64's](h
 
 1. Collect the items and complete the pipe puzzles scattered in each accessible area in the glitch world.
 
-2. Interact with Paco and insert the code `HEEFTTECSE`. This will give you access to crafting.
+2. Interact with [Paco](https://piggy.fandom.com/wiki/Paco) and insert the code `HEEFTTECSE`. This will give you access to crafting.
 
 3. Craft all the ingots you can which are used to get different items from AJ Alpaca.
 
