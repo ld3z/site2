@@ -83,7 +83,7 @@ You will have a boss battle against *TIO*, the main antagonist of the whole game
 
     If you didn't get the badge, make sure to check the following:
 
-      1. You (or someone else in the server) have all badges from both books, excluding any of the event badges, including all other badges from Factory, Lab, and Plant.
+      1. You (or someone else in the server) have all badges from both books, excluding any of the event badges, including all other badges from *Factory*, *Lab*, and *Plant*.
 
       2. You have the Savior Ending toggled in Settings, or else the keypad in *Camp* won't appear.
 
