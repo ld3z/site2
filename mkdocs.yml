@@ -49,6 +49,7 @@ plugins:
   - search
   - open-in-new-tab
   - autolinks
+  - table-reader
 
 markdown_extensions:
   - admonition
@@ -66,3 +67,6 @@ extra:
 
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
+
+hooks:
+  - scripts/pf-table.py
