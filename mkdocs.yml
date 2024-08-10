@@ -2,6 +2,8 @@ site_name: ld3z's Site
 theme:
   name: material
   favicon: images/favicon.png
+  font:
+    text: Inter
   features:
     - navigation.tabs
     - navigation.sections
