@@ -6,4 +6,5 @@ def on_pre_build(config, **kwargs) -> None:
     df.drop(["Unnamed: 2"], axis="columns", inplace=True)
     df.replace("`", '', regex=True, inplace=True)
     df.replace("\|\|", '', regex=True, inplace=True)
+    df.replace("\*", '', regex=True, inplace=True)
     df.to_csv("docs/pf_data.csv", index=False)
