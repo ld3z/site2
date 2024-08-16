@@ -48,8 +48,6 @@ plugins:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/ld3z/
-    - cards_layout_options:
-        font_family: Inter
   - git-authors
   - glightbox
   - search
