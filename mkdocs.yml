@@ -74,5 +74,5 @@ extra:
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
 
-hooks:
-  - scripts/pf-table.py
+#hooks:
+#  - scripts/pf-table.py
