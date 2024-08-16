@@ -3,6 +3,8 @@ site_url: https://ld3z.github.io/site2
 theme:
   name: material
   favicon: images/favicon.png
+  icon:
+    logo: fontawesome/solid/newspaper
   font:
     text: Inter
   features:
