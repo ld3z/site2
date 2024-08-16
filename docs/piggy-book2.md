@@ -1,3 +1,8 @@
+---
+title: Piggy Book 2 Secret Ending
+description: A guide explaining how to get the Book 2 Secret Ending!
+---
+
 # **Piggy Book 2 Secret Ending**
 
 This is a page which will instruct someone, on how to obtain [Book 2's](https://www.rolimons.com/gamebadge/2124855991) Secret Ending!
