@@ -1,4 +1,5 @@
 site_name: ld3z's Site
+site_urL: https://ld3z.github.io/site2
 theme:
   name: material
   favicon: images/favicon.png
@@ -44,6 +45,9 @@ plugins:
       check_interval_seconds: 60
   - minify:
       minify_html: true
+  - social:
+      cards_layout_options:
+        font_family: Inter
   - git-authors
   - glightbox
   - search
@@ -68,5 +72,5 @@ extra:
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
 
-hooks:
-  - scripts/pf-table.py
+#hooks:
+#  - scripts/pf-table.py
