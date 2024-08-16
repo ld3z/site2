@@ -1,5 +1,5 @@
 site_name: ld3z's Site
-site_urL: https://ld3z.github.io/site2
+site_url: https://ld3z.github.io/site2
 theme:
   name: material
   favicon: images/favicon.png
