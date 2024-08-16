@@ -45,7 +45,11 @@ plugins:
       check_interval_seconds: 60
   - minify:
       minify_html: true
-  - social
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ld3z/
+    cards_layout_options:
+      font_family: Inter
   - git-authors
   - glightbox
   - search
@@ -61,11 +65,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/ld3z/
 
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
