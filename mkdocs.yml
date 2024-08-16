@@ -45,7 +45,9 @@ plugins:
       check_interval_seconds: 60
   - minify:
       minify_html: true
-  - social
+  - social:
+      cards_layout_options:
+        font_family: Inter
   - git-authors
   - glightbox
   - search
