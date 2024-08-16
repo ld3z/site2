@@ -55,7 +55,6 @@ plugins:
   - search
   - open-in-new-tab
   - autolinks
-  - table-reader
 
 markdown_extensions:
   - admonition
