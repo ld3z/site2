@@ -1,11 +1,11 @@
 import pandas as pd
 
 def on_pre_build(config, **kwargs) -> None:
-    df = pd.read_csv('https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/gviz/tq?tqx=out:csv&sheet=spezi&gid=1214029714&headers=1&range=A8:K33')
+    df = pd.read_csv('https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/gviz/tq?tqx=out:html&sheet=spezi&gid=1214029714&headers=1&range=D8:K33')
     df.dropna(axis="columns", how="all", inplace=True)
     df.drop(["q"], axis="columns", inplace=True)
     df.rename(columns={'Unnamed: 1': 'Suggested'}, inplace=True)
     df.replace("`", '', regex=True, inplace=True)
     df.replace("\|\|", '', regex=True, inplace=True)
     df.replace("\*", '', regex=True, inplace=True)
-    df.to_csv("docs/pf_data.csv", index=False)
+    df.to_csv("docs/pf_assault_rifles.csv", index=False)

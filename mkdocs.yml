@@ -55,6 +55,7 @@ plugins:
   - search
   - open-in-new-tab
   - autolinks
+  - table-reader
 
 markdown_extensions:
   - admonition
@@ -62,8 +63,6 @@ markdown_extensions:
   - md_in_html
   - sane_lists
   - pymdownx.superfences
-  - pymdownx.b64:
-      base_path: "."
   - pymdownx.tabbed:
       alternate_style: true
 
