@@ -50,7 +50,7 @@ This is a page which will instruct someone, on how to obtain [Book 2's](https://
 4. Type in the code in letters onto the keypad, from the closest number to the farthest. If the code is correct, the keypad should say "*PASSCODE ACCEPTED*" and a cutscene will play. If the code is incorrect, the keypad will say "*SYSTEM LOCKED*" and cannot be used for the rest of the round, forcing you to play another round.
 
 <figure markdown="span">
-  ![KeypadImg](images/piggyCode.PNG){ loading=lazy }
+  ![KeypadImg](images/piggyCode.png){ loading=lazy }
   <figcaption>An image of the symbols representing each number. Photo credits goes to: <p><a href="https://www.youtube.com/channel/UC_Eqz_eCwFXQBRtrtOWukZQ?themeRefresh=1">THECREEPYHEADPHONES</a></p> on YouTube.</figcaption>
 </figure>
 
