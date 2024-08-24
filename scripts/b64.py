@@ -1,2 +1,2 @@
 import markdown
-md = markdown.Markdown(extensions=['pymdownx.b64'])
+md = markdown.Markdown(docs/piggy-book2.md, extensions=['pymdownx.b64'])
