@@ -37,5 +37,5 @@ jobs:
       - run: pip install mkdocs-auto-refresh-build-pages
       - run: pip install mkdocs-minify-plugin
       - run: pip install "mkdocs-material[imaging]"
-      - run: markdown_py -x pymdownx.b64 /docs/piggy-book2.md > out.html
+      - run: markdown_py -x pymdownx.b64 docs/piggy-book2.md > out.html
       - run: mkdocs gh-deploy --force
