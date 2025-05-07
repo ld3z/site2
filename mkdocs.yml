@@ -22,14 +22,14 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: green
-      accent: purple 
-    - scheme: slate 
+      accent: purple
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: green
       accent: lime
 
@@ -62,7 +62,6 @@ markdown_extensions:
   - md_in_html
   - sane_lists
   - pymdownx.superfences
-  - pymdownx.b64
   - pymdownx.tabbed:
       alternate_style: true
 
@@ -73,7 +72,3 @@ extra:
 
 repo_url: https://github.com/ld3z/site2
 repo_name: ld3z/site2
-
-#hooks:
-#  - scripts/b64.py
-#  - scripts/pf-table.py
