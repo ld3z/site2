@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Homepage","text":"<p>Welcome to my site's homepage!</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Homepage","text":"<p>Welcome to my site's homepage!</p>"},{"location":"game-guides/","title":"Game guides have moved to https://ld3z.github.io/site4","text":""}]}
