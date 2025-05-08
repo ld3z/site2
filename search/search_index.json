@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Homepage","text":"<p>Welcome to my site's homepage!</p>"},{"location":"game-guides/","title":"Game guides have moved to here[https://ld3z.github.io/site4]","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Homepage","text":"<p>Welcome to my site's homepage!</p>"},{"location":"game-guides/","title":"Game guides have moved to here","text":""}]}
