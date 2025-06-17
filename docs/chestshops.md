@@ -32,3 +32,7 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
 Here is an example of a completed shop sign and chest:
 
 ![Resulting Shop](https://cdn-raw.modrinth.com/data/QI2CAnAl/images/a0bb9d3a3154dc2935862614279f405a5f483ca3.gif)
+
+## Video Guide:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zap3snBb5Fw?si=wlmgBAmO7G-WsYPB&amp;start=628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
