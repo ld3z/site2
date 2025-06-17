@@ -22,7 +22,7 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
         *   `S` indicates the price at which *players* can *sell* items to your shop.
         *   Prices are separated by a colon (`:`).
         *   Examples of valid price combinations:
-            *   `B 5:5 S`: Players can buy for 5, and sell for 5.
+            *   `B 5: S 5`: Players can buy for 5, and sell for 5.
             *   `B 5`: Players can only buy for 5.
             *   `S free`: Players can sell to your shop for free.
     *   **Line 4:** Specify the item being traded. You can write `?` on the sign, and the plugin will automatically detect the item from the chest when you're done writing the sign or after you click the sign with the item in your hand. Alternatively, you can write the item's name or ID directly. You can find the name of the item you are trying to sell by going to the [Minecraft wiki](https://minecraft.wiki).
