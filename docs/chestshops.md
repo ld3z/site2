@@ -1,3 +1,8 @@
+---
+title: ChestShops
+description: Guide to creating chest shops
+---
+
 # Creating a Player Shop with ChestShop
 
 Creating your own shop using the ChestShop plugin is straightforward. Follow these steps:
