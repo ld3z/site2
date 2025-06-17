@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ld3z.github.io/site2/</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-06-17</lastmod>
+    </url>
+    <url>
+         <loc>https://ld3z.github.io/site2/chestshops/</loc>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
          <loc>https://ld3z.github.io/site2/game-guides/</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
          <loc>https://ld3z.github.io/site2/tapestry-plugins/</loc>
-         <lastmod>2025-05-08</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
 </urlset>
