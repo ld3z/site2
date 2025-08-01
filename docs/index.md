@@ -9,7 +9,7 @@ hero:
       link: /home
     - theme: alt
       text: GitHub
-      link: https://github.com/ld3z/site9
+      link: https://github.com/ld3z/site2
   image:
     src: /site-logo.png
     alt: Logo
