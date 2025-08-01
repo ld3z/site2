@@ -38,7 +38,7 @@ export default defineConfig({
       {
         icon: "github",
         mode: "link",
-        content: "https://github.com/ld3z/site9",
+        content: "https://github.com/ld3z/site2",
       },
     ],
   },
