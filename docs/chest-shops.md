@@ -35,4 +35,4 @@ Here is an example of a completed shop sign and chest:
 
 ## Video Guide:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zap3snBb5Fw?si=wlmgBAmO7G-WsYPB&amp;start=628" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/Zap3snBb5Fw/hqdefault.jpg)](https://youtu.be/Zap3snBb5Fw?si=hfBe94_E_5lbMCN1&t=625)
