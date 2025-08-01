@@ -25,13 +25,17 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
             *   `B 5: S 5`: Players can buy for 5, and sell for 5.
             *   `B 5`: Players can only buy for 5.
             *   `S free`: Players can sell to your shop for free.
-    *   **Line 4:** Specify the item being traded. You can write `?` on the sign, and the plugin will automatically detect the item from the chest when you're done writing the sign or after you click the sign with the item in your hand. Alternatively, you can write the item's name or ID directly. You can find the name of the item you are trying to sell by going to the [Minecraft wiki](https://minecraft.wiki).
+    *   **Line 4:** Specify the item being traded. You can write `?` on the sign, and the plugin will automatically detect the item from the chest when you're done writing the sign or after you click the sign with the item in your hand. Alternatively, you can write the item's name or ID directly.
+
+  :::info TIP:
+  You can find the name of the item you are trying to sell by going to the [Minecraft wiki](https://minecraft.wiki).
+  :::
 
 4.  **Complete the Shop:** Once the sign is correctly filled out and placed next to the chest, your shop is ready!
 
-Here is an example of a completed shop sign and chest:
-
+:::details Here is an example of a completed shop sign and chest:
 ![Resulting Shop](https://cdn-raw.modrinth.com/data/QI2CAnAl/images/a0bb9d3a3154dc2935862614279f405a5f483ca3.gif)
+:::
 
 ## Video Guide:
 
