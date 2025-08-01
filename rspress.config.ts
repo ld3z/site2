@@ -5,12 +5,17 @@ export default defineConfig({
   root: path.join(__dirname, "docs"),
   title: "ldez's Site",
   icon: "/favicon.png",
-  base: '/site2/',
+  base: "/site2/",
   logo: {
     light: "/favicon.png",
     dark: "/favicon.png",
   },
   themeConfig: {
+    nav: [
+      { text: "Home", link: "/home" },
+      { text: "ChestShop Guide", link: "/chest-shops" },
+      { text: "Tapestry Plugins", link: "/tapestry-plugins" },
+    ],
     sidebar: {
       "/": [
         {
