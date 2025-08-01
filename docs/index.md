@@ -5,7 +5,7 @@ hero:
   name: ldez's Site
   actions:
     - theme: brand
-      text: Quick Start
+      text: Home
       link: /home
     - theme: alt
       text: GitHub
