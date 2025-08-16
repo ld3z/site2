@@ -28,7 +28,7 @@ Steam Remote Play allows you to stream games from your powerful gaming PC to ano
     *   The selected `.exe` will now appear in the list. Ensure its checkbox is ticked.
     *   Click the `ADD SELECTED PROGRAMS` button.
 
-    ![Add Selected Programs](hhttps://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif)
+    ![Add Selected Programs](https://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif)
 
 5.  **Launch and Stream:**
     *   The added application will now appear in your Steam Library under the "Games" section.
