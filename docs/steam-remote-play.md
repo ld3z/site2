@@ -15,20 +15,20 @@ Steam Remote Play allows you to stream games from your powerful gaming PC to ano
     *   In the top menu bar, click on `Games`.
     *   Select `Add a Non-Steam Game to My Library...`.
 
-    ![Add Non-Steam Game](https://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif) *(Replace with actual screenshot if available)*
+    ![Add Non-Steam Game](https://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif)
 
 3.  **Browse for the Executable:**
     *   A new window will appear showing a list of programs. Click the `BROWSE...` button.
     *   Navigate to the location of the `.exe` file for the game or application you want to stream.
     *   Select the `.exe` file and click `Open`.
 
-    ![Browse for EXE](https://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif) *(Replace with actual screenshot if available)*
+    ![Browse for EXE](https://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif)
 
 4.  **Add Selected Programs:**
     *   The selected `.exe` will now appear in the list. Ensure its checkbox is ticked.
     *   Click the `ADD SELECTED PROGRAMS` button.
 
-    ![Add Selected Programs](hhttps://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif) *(Replace with actual screenshot if available)*
+    ![Add Selected Programs](hhttps://greenmangaming.zendesk.com/hc/article_attachments/115009461327/ezgif.com-optimize__3_.gif)
 
 5.  **Launch and Stream:**
     *   The added application will now appear in your Steam Library under the "Games" section.
