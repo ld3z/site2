@@ -33,6 +33,10 @@ export default defineConfig({
               text: "Tapestry Plugins",
               link: "/tapestry-plugins",
             },
+            {
+              text: "Steam Remote Play",
+              link: "/steam-remote-play",
+            },
           ],
         },
       ],
