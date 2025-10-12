@@ -11,6 +11,7 @@ export default defineConfig({
     dark: "/favicon.png",
   },
   globalStyles: path.join(__dirname, "styles/index.css"),
+  globalUIComponents: [path.join(__dirname, "components", "IconifyInline.tsx")],
   themeConfig: {
     nav: [
       { text: "Home", link: "/home" },
