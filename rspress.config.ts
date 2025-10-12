@@ -10,6 +10,7 @@ export default defineConfig({
     light: "/favicon.png",
     dark: "/favicon.png",
   },
+  globalStyles: path.join(__dirname, "styles/index.css"),
   themeConfig: {
     nav: [
       { text: "Home", link: "/home" },
