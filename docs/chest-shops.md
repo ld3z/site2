@@ -11,7 +11,7 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
 2.  **Place a Sign:** Place a sign one block away from the chest. A common position is directly above the chest.
 3.  **Write on the Sign:** Interact with the sign to write the shop details. The format for the sign is crucial:
 
-    ![Example Sign](https://cdn-raw.modrinth.com/data/QI2CAnAl/images/f6fb7818af0689d133f53b3c24fab7ec9c91a4b2.gif)
+    ![Example Sign](./public/chest-shop.gif)
 
     Here's what each line means:
 
@@ -31,10 +31,10 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
   You can find the name of the item you are trying to sell by going to the [Minecraft Wiki :mdi-minecraft:](https://minecraft.wiki).
   :::
 
-4.  **Complete the Shop:** Once the sign is correctly filled out and placed next to the chest, your shop is ready!
+1.  **Complete the Shop:** Once the sign is correctly filled out and placed next to the chest, your shop is ready!
 
 :::details Here is an example of a completed shop sign and chest:
-![Resulting Shop](https://cdn-raw.modrinth.com/data/QI2CAnAl/images/a0bb9d3a3154dc2935862614279f405a5f483ca3.gif)
+![Resulting Shop](./public/done-shop.gif)
 :::
 
 ## Video Guide:
