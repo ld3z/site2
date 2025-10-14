@@ -31,7 +31,7 @@ Creating your own shop using the ChestShop plugin is straightforward. Follow the
   You can find the name of the item you are trying to sell by going to the [Minecraft Wiki :mdi-minecraft:](https://minecraft.wiki).
   :::
 
-1.  **Complete the Shop:** Once the sign is correctly filled out and placed next to the chest, your shop is ready!
+4.  **Complete the Shop:** Once the sign is correctly filled out and placed next to the chest, your shop is ready!
 
 :::details Here is an example of a completed shop sign and chest:
 ![Resulting Shop](./public/done-shop.gif)
