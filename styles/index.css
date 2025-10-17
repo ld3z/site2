@@ -2,3 +2,51 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* Figure captions: show image alt text as centered italic caption */
+figure {
+  display: block;
+  text-align: center;
+}
+
+figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+figure figcaption {
+  font-style: italic;
+  text-align: center;
+  margin-top: 0.25rem; /* 4px */
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.4;
+  color: inherit; /* respect surrounding text color (dark/light themes) */
+  pointer-events: none;
+}
+
+/* Scoped rehype/runtime figure caption styles */
+.rehype-figure {
+  display: block;
+  text-align: center;
+}
+
+.rehype-figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.rehype-figure__caption {
+  font-style: italic;
+  text-align: center;
+  margin-top: 0.25rem; /* 4px */
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.4;
+  color: inherit;
+  pointer-events: none;
+}

@@ -1,5 +1,6 @@
 import * as path from "node:path";
 import { defineConfig } from "rspress/config";
+import rehypeFigure from "@microflash/rehype-figure";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
@@ -15,6 +16,9 @@ export default defineConfig({
     path.join(__dirname, "components", "IconifyInline.tsx"),
     path.join(__dirname, "components", "LazyImages.tsx"),
   ],
+  markdown: {
+    rehypePlugins: [rehypeFigure],
+  },
   themeConfig: {
     nav: [
       { text: "Home", link: "/home" },
