@@ -50,7 +50,6 @@ export default defineConfig({
         },
       ],
     },
-    lastUpdated: true,
     footer: {},
     socialLinks: [
       {
