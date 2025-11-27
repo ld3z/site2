@@ -14,15 +14,15 @@
     "@microflash/rehype-figure": "^2.1.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "rspress": "^1.45.7"
+    "rspress": "^1.46.2"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.14",
-    "@types/node": "^24.8.0",
-    "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.2",
-    "autoprefixer": "^10.4.21",
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.22",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.14"
+    "tailwindcss": "^4.1.17"
   }
 }
