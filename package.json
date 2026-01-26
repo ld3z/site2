@@ -3,26 +3,27 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rspress build",
+    "build": "rspress build && jampack ./doc_build",
     "dev": "rspress dev",
     "preview": "rspress preview"
   },
   "dependencies": {
+    "@divriots/jampack": "^0.34.0",
     "@iconify-json/mdi": "^1.2.3",
-    "@iconify-json/twemoji": "^1.2.4",
+    "@iconify-json/twemoji": "^1.2.5",
     "@iconify/react": "^6.0.2",
     "@microflash/rehype-figure": "^2.1.4",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "rspress": "^1.46.2"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "rspress": "^1.47.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.17",
-    "@types/node": "^24.10.1",
-    "@types/react": "^19.2.7",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^25.0.10",
+    "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
-    "autoprefixer": "^10.4.22",
+    "autoprefixer": "^10.4.23",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.17"
+    "tailwindcss": "^4.1.18"
   }
 }
