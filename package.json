@@ -13,14 +13,14 @@
     "@iconify-json/twemoji": "^1.2.5",
     "@iconify/react": "^6.0.2",
     "@microflash/rehype-figure": "^2.1.4",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
-    "rspress": "^1.47.0"
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "rspress": "^1.47.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
-    "@types/node": "^25.0.10",
-    "@types/react": "^19.2.9",
+    "@types/node": "^25.1.0",
+    "@types/react": "^19.2.10",
     "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.23",
     "postcss": "^8.5.6",
